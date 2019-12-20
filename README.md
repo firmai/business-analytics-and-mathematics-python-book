@@ -1,23 +1,22 @@
-# business-analytics-and-mathematics-python
-Business Analytics and Mathematics with Python
+# Business Analytics and Mathematics with Python
 
-## Risk Engineering
+### Risk Engineering
 
-### Anomaly Detection
-### Predictive Maintenance
-### Financial Risk
+#### Anomaly Detection
+#### Predictive Maintenance
+#### Financial Risk
 
-## Decision Science
+### Decision Science
 
-### A/B Testing
-### Causal Inference with Data
-### Operations Research
+#### A/B Testing
+#### Causal Inference with Data
+#### Operations Research
 
-## Predictive Analytics
+### Predictive Analytics
 
-### Employee
-### Customer
+#### Employee
+#### Customer
 
-## Segmentation Research
+### Segmentation Research
 
-### Clustering Problems
+#### Clustering Problems
