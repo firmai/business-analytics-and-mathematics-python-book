@@ -1,4 +1,4 @@
-# Advances in Business Analytics and Mathematics with Python
+# Business Analytics and Mathematics with Python
 
 ### Risk Engineering
 
