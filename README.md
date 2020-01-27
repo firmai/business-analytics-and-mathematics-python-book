@@ -1,4 +1,4 @@
-# Advanced Business Analytics and Mathematics with Python
+# Advanced Business Analytics and Mathematics
 
 ### Risk Engineering
 
