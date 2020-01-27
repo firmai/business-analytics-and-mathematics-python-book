@@ -25,7 +25,7 @@
 #### Operations Research
 1. Convex Optimisation
     1. [Optimal Advertising Problem](https://colab.research.google.com/drive/1qyiIt3JQpmQnzilVwQGU_G3b0_Rc2Xck)
-1. Linear Programming
+1. [Linear Programming](https://drive.google.com/file/d/1l56ZmbDKez15vlAt8neGEZHYIagciRsI/view?usp=sharing)
     1. [Production Models with Linear Constraints](https://colab.research.google.com/drive/1l56ZmbDKez15vlAt8neGEZHYIagciRsI#scrollTo=SRXossXvecIC)
     1. [Linear Blending Problems](https://colab.research.google.com/drive/1l56ZmbDKez15vlAt8neGEZHYIagciRsI#scrollTo=J8jKI-LbfvQl)
     1. [Task Allocation Problems](https://colab.research.google.com/drive/1l56ZmbDKez15vlAt8neGEZHYIagciRsI#scrollTo=kV1GH1r13ix6)
