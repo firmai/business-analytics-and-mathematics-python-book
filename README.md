@@ -1,5 +1,5 @@
 # Advanced Business Analytics and Mathematics
-##### Programmatic Open Source Google Colab Notebook Series
+##### Programmatic Google Colab Notebook Series (2018-2023)
 
 --------------------
 
