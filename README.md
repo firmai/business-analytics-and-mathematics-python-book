@@ -1,6 +1,8 @@
 # Advanced Business Analytics and Mathematics
 ##### Programmatic Google Colab Notebook Series (2018-2023)
 
+if you have some ideas, get in touch, [@dereknow](https://twitter.com/dereknow?lang=en)
+
 --------------------
 
 ### Risk Engineering
