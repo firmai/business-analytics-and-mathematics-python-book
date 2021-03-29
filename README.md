@@ -49,3 +49,5 @@ if you have some ideas, get in touch, [@dereknow](https://twitter.com/dereknow?l
 ### Segmentation Research
 
 #### Clustering Problems
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/github/repo/master)
